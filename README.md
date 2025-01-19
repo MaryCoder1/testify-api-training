@@ -1,2 +1,2 @@
 # testify-api-training
-This is a repository for my api automation course
+This is a repository for my testify api automation course
